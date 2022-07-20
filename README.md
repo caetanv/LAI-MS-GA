@@ -7,6 +7,7 @@ A brusca necessidade de alterações em atividades do cotidiano criou inevitavel
 Dada a natureza sanitária da crise, todos os olhos se tornam ao Ministério da Saúde (MS), órgão federal que foi responsável pela centralização, contabilização e divulgação dos dados e informes sobre a pandemia, que hoje estão em todos os noticiários, como o número de infectados, óbitos por estado e município, dados sobre a semana epidemiológica, ocupação de hospitais etc. No entanto, esta situação se dá em um contexto em que havia um extenso esforço prévio de garantia de acesso a dados e informações. A partir da compreensão deste quadro pode se levantar a questão: houve alteração na prestação do serviço de informação por parte do Ministério da Saúde? 
 Durante a pandemia, juntamente com a crise sanitária, o país também passou por uma crise de dados nos sistemas de informação. Em 10 de dezembro de 2021, as plataformas e-SUS Notifica, o Sistema de Informação do Programa Nacional de Imunização (SI-PNI), o ConecteSUS e funcionalidades como a emissão do Certificado Nacional de Vacinação Covid-19 e da Carteira Nacional de Vacinação Digital perderam suas funcionalidades. A falha nos sistemas comprometeu o acesso aos dados relacionados à saúde, inclusive os pandêmicos. A perda comprometeu não apenas a formulação e monitoramento de políticas emergenciais pelo poder público, mas impossibilitou o controle exercido pela sociedade civil das políticas de contingenciamento, parte imprescindível da participação social. Porém, além do ataque cibernético, a agência “Fique Sabendo” divulgou dados em abril de 2021 sobre a taxa de resposta do Ministério da Saúde em relação à pedidos de acesso à informação e foi observado que a pasta é a que mais ignora pedidos do governo federal, mesmo durante a crise sanitária. 
 Tendo esta questão como mote, este trabalho propõe uma análise qualitativa da transparência passiva de modo a observar alterações no padrão de atendimento do MS em dois períodos distintos, sendo eles: janeiro de 2018 à dezembro de 2019 - como variável controle - e abril de 2020 à dezembro de 2021 - tomando como marco a Mensagem Presidencial nº23 que reconhece estado de calamidade pública no Brasil de acordo com recomendação da Organização Mundial da Saúde (OMS). As escolhas metodológicas utilizadas neste trabalho estão descritas na seção seguinte. 
+
 # Metodologia
 De forma a analisar as diferenças nos tratamentos dos pedidos de informações antes e durante a pandemia do novo coronavírus, foram averiguados todos estes para a pasta do Ministério da Saúde (MS) de acordo com o seguinte recorte temporal: 2018 - 2021. Se obteve os dados desses pedidos a partir das planilhas disponibilizadas pela Controladoria Geral da União (CGU), que possibilitaram a contagem dos pedidos submetidos, os atendidos e os não atendidos a cada ano.
 A partir dessa observação, foram combinados os modelos qualitativo e quantitativo do período pandêmico, para que se possa, primeiramente, mapear os pedidos que não foram respondidos, e, posteriormente, avaliar tais pedidos a fim de estabelecer se há algum padrão de solicitações não respondidas.
@@ -17,7 +18,9 @@ Foram extraídos os dados sobre os pedidos da LAI a respeito dos anos de 2018, 2
 ![image](https://user-images.githubusercontent.com/7980761/180070329-9e0c0a51-ba64-4810-975d-20be99713e57.png)
 
 Após a extração dos dados - que nestes haviam todos os pedidos de Acesso à Informação de todos os órgãos federais -, posteriormente foram agrupados e postos em gráfico da seguinte maneira:
+
 ![image](https://user-images.githubusercontent.com/7980761/180070392-b6868705-bdb2-4141-a83b-a61a5c9fba25.png)
+
 ![image](https://user-images.githubusercontent.com/7980761/180070435-cc92b476-07bf-4728-b049-649e4fc14d55.png)
 
 É possível verificar que há um crescimento gradual de aproximadamente 16% nos pedidos de informação direcionados ao Ministério da Saúde entre 2018 a 2020. Contudo, mesmo com a decretação de estado de emergência e o reconhecimento do Covid-19 pelas autoridades do país do início da pandemia, aparentemente, não se refletiram em aumento significativo na demanda por informações por parte do Ministério da Saúde.
@@ -38,6 +41,7 @@ Em 2018 é possível observar uma nuvem de palavras espaçada e composta por men
 
 ### 2019
 ![image](https://user-images.githubusercontent.com/7980761/180070658-be7153fd-c03a-4169-9ba0-add6e6d1df86.png)
+
 Em 2019 é possível,  a nuvem de palavras se torna mais densa. Porém, o teor dos pedidos é muito semelhante ao do ano anterior. 
 
 ### 2020
@@ -58,7 +62,9 @@ Da mesma forma, foi feito um relatório utilizando a biblioteca de nome “panda
 
 ![image](https://user-images.githubusercontent.com/7980761/180070962-fd39bdd8-b2f5-478c-bf51-0e4fc235505d.png)
 Nestas comparações entre as categorias dos assuntos dos pedidos foi observado que, nos anos de 2018 e 2019, a plataforma que recebia os pedidos ao Ministério da Saúde agrupava em 4 categorias referente ao assunto do pedido. No período seguinte, houve um aumento nas categorizações, passando a existir um total de 78 categorias já no ano de 2020. 
+
 Neste ano de 2020 também marca o início da pandemia no país, onde o governo decreta o país sob estado de emergência, normas e regulamentações são adotados para a prevenção e o tratamento da infecção do COVID-19 (BRASIL, 2020). Os governos federal, estaduais e municipais começam a dirigir políticas públicas para conter e combater a pandemia. Os assuntos relacionados ao COVID-19 e tudo que o cerca começam a ter grande destaque e são centrais nos pedidos de informações ao Ministério da Saúde. Analisando sistematicamente, observa-se que a categorização  “Outros”, que antes era a maioria dos assuntos, teve uma redução no número total de pedidos.
+
 No ano de 2021 houveram 107 categorias para classificação dos pedidos e, dessa vez, a categoria mais relevante foi o de “Acesso à informação”. Já o número de pedidos em relação ao COVID teve uma queda, mas ainda  obteve destaque quando se analisa de maneira geral.
 Não se observa vantagens quanto à enorme categorização de tipos de pedidos, pois muitos pedidos não são classificados com categorias no âmbito específico da saúde, e podem até de certa forma serem desconsiderados para se fazer um levantamento da análise de dados, pois não trazem resultados significativos para os gráficos.
 
@@ -79,6 +85,7 @@ Por outro lado, pode-se observar também significativo aumento na taxa de pedido
 
 No que diz respeito aos acessos negados, o ano de 2018 registrou 4,08% dos pedidos com a negativa de acesso. Nos anos seguintes, essa porcentagem cresceu substancialmente e a categoria passou a representar uma porcentagem mais expressiva do total de respostas, com aproximadamente 5% e 7,5%, em 2019 e 2020 respectivamente, representando aumento maior de 2,65% entre os dois anos. Já em 2021, 9% dos pedidos estavam com o status de pedido negado, aumento de 1,45% em relação ao ano anterior e de 4,92% ao ano base.
 Além disso, é possível observar uma relevante mudança “Acesso Parcialmente Concedido”, caindo aproximadamente 1% entre 2018 e 2019, porém crescendo pouco mais de 2% até 2021. Outro indicador que cresceu ao longo do período analisado é o “Informação Inexistente”, principalmente em 2021, ano em que passou de representar 1,72% para 3,51% do total. 
+
 Este aumento do número de pedidos negados, parcialmente concedidos e de informação inexistente se deu independentemente do crescimento da demanda de pedidos de pedidos de acesso à informação, pois em 2021 os encaminhados ao Ministério da Saúde foram identificados em menor número que no ano anterior.
 ![image](https://user-images.githubusercontent.com/7980761/180071195-cebeb775-d1b2-4dee-ab19-790d94b0423f.png)
 
