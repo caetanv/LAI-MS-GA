@@ -74,7 +74,7 @@ Não se observa vantagens quanto à enorme categorização de tipos de pedidos, 
 
 A partir dos dados separados nas tabelas, também foi calculado a porcentagem de pedidos que receberam respostas positivas quanto  a solicitação de dados e outros documentos, que podiam já estar disponíveis na plataforma ou não. Utilizando os valores “Acesso Concedido” na coluna "Decisão" é possível ilustrar a quantidade de pedidos que tiveram o acesso à informação concedido.
 
-![image](https://user-images.githubusercontent.com/7980761/180071052-02fd2cac-6837-4284-a1a6-f8a8955389e5.png)
+![image](https://user-images.githubusercontent.com/7980761/180073404-2bc64f4a-192d-424c-b92b-5820b326b3a5.png)
 
 Podemos observar a partir da análise dos dados que houve queda sensível da taxa de resposta concedida pelo Ministério da Saúde ao longo do período analisado. Realizando-se a média da taxa de resposta, temos uma queda média de 4,45% por ano no período e de 13,36% em relação ao ano base.  
 Existem também outras categorias de acesso dispostas nas planilhas, além de “Acesso Concedido”. São elas “Acesso Negado”, “Acesso Parcialmente Concedido”, “Pergunta Duplicada/Repetida”, “Informação Inexistente”; “Órgão não tem competência para responder sobre o assunto” e “Não se trata de solicitação de informação”. A relação temporal entre as categorias pode ser observada no gráfico a seguir:
@@ -89,6 +89,7 @@ No que diz respeito aos acessos negados, o ano de 2018 registrou 4,08% dos pedid
 Além disso, é possível observar uma relevante mudança “Acesso Parcialmente Concedido”, caindo aproximadamente 1% entre 2018 e 2019, porém crescendo pouco mais de 2% até 2021. Outro indicador que cresceu ao longo do período analisado é o “Informação Inexistente”, principalmente em 2021, ano em que passou de representar 1,72% para 3,51% do total. 
 
 Este aumento do número de pedidos negados, parcialmente concedidos e de informação inexistente se deu independentemente do crescimento da demanda de pedidos de pedidos de acesso à informação, pois em 2021 os encaminhados ao Ministério da Saúde foram identificados em menor número que no ano anterior.
+
 ![image](https://user-images.githubusercontent.com/7980761/180071195-cebeb775-d1b2-4dee-ab19-790d94b0423f.png)
 
 O número de pedidos concedidos teve queda em porcentagem com o período da pandemia, mesmo com a diminuição do número de pedidos pela população, revelando o impacto que houve no sistema de pedidos de informação. E ainda assim o COVID-19 se mostrou a terceira categoria mais requisitada nos pedidos. Houve uma quantificação semelhante nos pedidos de 2020 e 2021 em relação com as categorias “acesso à informação” e “outros em saúde” que pode indicar a importância dada pelo órgão em adaptar melhor o uso das categorias durante as mudanças que ocorreram neste período de adaptação na quantidade de categorias.
