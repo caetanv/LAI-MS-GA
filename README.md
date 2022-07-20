@@ -15,6 +15,7 @@ A base de dados utilizada foi as planilhas disponibilizadas pelo portal eletrôn
 Para trabalhar a análise de dados o software livre Iramuteq nos serve como ferramenta de manipulação de palavras as quais foi possível detectar e quantificar as referências de palavras-chaves existentes no corpo dos pedidos.
 # Desenvolvimento
 Foram extraídos os dados sobre os pedidos da LAI a respeito dos anos de 2018, 2019, 2020  e 2021. Esses pedidos foram retirados através da plataforma de Busca de Pedidos e Respostas, do site da Controladoria Geral da União. Os dados obtidos continham as informações de cabeçalhos da seguinte maneira :
+
 ![image](https://user-images.githubusercontent.com/7980761/180070329-9e0c0a51-ba64-4810-975d-20be99713e57.png)
 
 Após a extração dos dados - que nestes haviam todos os pedidos de Acesso à Informação de todos os órgãos federais -, posteriormente foram agrupados e postos em gráfico da seguinte maneira:
