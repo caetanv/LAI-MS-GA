@@ -36,22 +36,22 @@ Delimitando apenas os pedidos enviados ao Ministério da Saúde, uma filtragem f
 Uma vez no Iramuteq, os dados importados foram processados de acordo com os anos listados, nos quais foram gerados as seguintes nuvens de palavras:
 
 ### 2018
-![image](https://user-images.githubusercontent.com/7980761/180070594-ce07f146-fdbd-4fd1-9239-c49b39f0145c.png)
+![image](https://user-images.githubusercontent.com/7980761/180072386-d970d68e-05f7-4d14-8bc5-b8aab9874e41.png)
 
 Em 2018 é possível observar uma nuvem de palavras espaçada e composta por menos elementos, em relação aos anos posteriores. Em relação ao teor dos pedidos, são observadas ocorrências significativas de solicitações de dados orçamentários, processuais, informações de compra e medicamentos. Em relação aos níveis da federação, as palavras “município”, “Brasil”, “federal” e “nacional” foram citadas mais vezes que a palavra “estados”. 
 
 ### 2019
-![image](https://user-images.githubusercontent.com/7980761/180070658-be7153fd-c03a-4169-9ba0-add6e6d1df86.png)
+![image](https://user-images.githubusercontent.com/7980761/180072431-66313eeb-3135-4a2a-b20c-37e02c00afe3.png)
 
 Em 2019 é possível,  a nuvem de palavras se torna mais densa. Porém, o teor dos pedidos é muito semelhante ao do ano anterior. 
 
 ### 2020
-![image](https://user-images.githubusercontent.com/7980761/180070784-588be231-776a-4997-a45e-33da4ef7ed9e.png)
+![image](https://user-images.githubusercontent.com/7980761/180072492-f327f6a5-585a-41e6-b05a-3a6f7d192be9.png)
 
 Em 2020, primeiro ano da pandemia do Covid-19, os pedidos passam a ter palavras correspondentes a temáticas diferentes entre as mais citadas. Além do próprio termo Covid-19, também foram solicitadas informações referentes à vacina e testes. 
 
 ### 2021
-![image](https://user-images.githubusercontent.com/7980761/180070856-8cead4b8-f954-42c7-a288-1fe96159d08a.png)
+![image](https://user-images.githubusercontent.com/7980761/180072523-931ac237-3262-4415-ad21-77c90d8506a9.png)
 
 No ano de 2021,em relação ao ano anterior, são adicionadas ocorrências referentes às doses vacinais, explicadas pela introdução da vacinação contra o vírus no Brasil . 
 
@@ -78,11 +78,11 @@ A partir dos dados separados nas tabelas, também foi calculado a porcentagem de
 Podemos observar a partir da análise dos dados que houve queda sensível da taxa de resposta concedida pelo Ministério da Saúde ao longo do período analisado. Realizando-se a média da taxa de resposta, temos uma queda média de 4,45% por ano no período e de 13,36% em relação ao ano base.  
 Existem também outras categorias de acesso dispostas nas planilhas, além de “Acesso Concedido”. São elas “Acesso Negado”, “Acesso Parcialmente Concedido”, “Pergunta Duplicada/Repetida”, “Informação Inexistente”; “Órgão não tem competência para responder sobre o assunto” e “Não se trata de solicitação de informação”. A relação temporal entre as categorias pode ser observada no gráfico a seguir:
 
-![image](https://user-images.githubusercontent.com/7980761/180071096-faad4bbb-38af-4a8e-87d1-994d724687a7.png)
+![image](https://user-images.githubusercontent.com/7980761/180072813-f02f6a89-182a-4e2f-ba96-17953e06a614.png)
 
 Por outro lado, pode-se observar também significativo aumento na taxa de pedidos de informação classificados como “Acesso Negado”. O gráfico seguinte ilustra a afirmação, removendo apenas a categoria “Acesso Concedido" para melhor visualização das informações:
 
-![image](https://user-images.githubusercontent.com/7980761/180071147-9345c342-0b8d-4ed3-8aa4-6ab8bc11f260.png)
+![image](https://user-images.githubusercontent.com/7980761/180072926-974114ee-c774-4564-b415-67cd8c8b442b.png)
 
 No que diz respeito aos acessos negados, o ano de 2018 registrou 4,08% dos pedidos com a negativa de acesso. Nos anos seguintes, essa porcentagem cresceu substancialmente e a categoria passou a representar uma porcentagem mais expressiva do total de respostas, com aproximadamente 5% e 7,5%, em 2019 e 2020 respectivamente, representando aumento maior de 2,65% entre os dois anos. Já em 2021, 9% dos pedidos estavam com o status de pedido negado, aumento de 1,45% em relação ao ano anterior e de 4,92% ao ano base.
 Além disso, é possível observar uma relevante mudança “Acesso Parcialmente Concedido”, caindo aproximadamente 1% entre 2018 e 2019, porém crescendo pouco mais de 2% até 2021. Outro indicador que cresceu ao longo do período analisado é o “Informação Inexistente”, principalmente em 2021, ano em que passou de representar 1,72% para 3,51% do total. 
@@ -94,7 +94,7 @@ O número de pedidos concedidos teve queda em porcentagem com o período da pand
 
 Também foi feita a análise da “Decisão do Pedido” considerando as Top 4 categorias mais frequentes de cada ano.
 
-![image](https://user-images.githubusercontent.com/7980761/180071241-80894b0e-5ffc-41d4-9cd0-07035b2d09e5.png)
+![image](https://user-images.githubusercontent.com/7980761/180073006-85a9605c-f49c-4b4e-ac89-7042b7f0b997.png)
 
 Pudemos observar que a divisão do assunto não varia muito em relação ao Total, ou seja, não existe nas top 4 categorias mais frequentes, uma categoria que atrapalhe ou tenha um índice de resposta significativamente menor.
 		Mas pudemos perceber que a categoria “Medicamentos e Aparelhos” esteve sempre acima da média Total na decisão de “assuntos respondidos”, o que pode significar alguma influência do contexto pandêmico. 
