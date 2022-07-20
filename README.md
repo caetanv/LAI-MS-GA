@@ -61,7 +61,8 @@ Da mesma forma, foi feito um relatório utilizando a biblioteca de nome “panda
 
 ## Categorização dos Pedidos 
 
-![image](https://user-images.githubusercontent.com/7980761/180070962-fd39bdd8-b2f5-478c-bf51-0e4fc235505d.png)
+![image](https://user-images.githubusercontent.com/7980761/180073232-5fe0bae6-e711-4fb5-9eda-42537b9ae10e.png)
+
 Nestas comparações entre as categorias dos assuntos dos pedidos foi observado que, nos anos de 2018 e 2019, a plataforma que recebia os pedidos ao Ministério da Saúde agrupava em 4 categorias referente ao assunto do pedido. No período seguinte, houve um aumento nas categorizações, passando a existir um total de 78 categorias já no ano de 2020. 
 
 Neste ano de 2020 também marca o início da pandemia no país, onde o governo decreta o país sob estado de emergência, normas e regulamentações são adotados para a prevenção e o tratamento da infecção do COVID-19 (BRASIL, 2020). Os governos federal, estaduais e municipais começam a dirigir políticas públicas para conter e combater a pandemia. Os assuntos relacionados ao COVID-19 e tudo que o cerca começam a ter grande destaque e são centrais nos pedidos de informações ao Ministério da Saúde. Analisando sistematicamente, observa-se que a categorização  “Outros”, que antes era a maioria dos assuntos, teve uma redução no número total de pedidos.
